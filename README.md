@@ -1,16 +1,18 @@
-# flutter_shop
+# FlutterShop
 
-A new Flutter application.
+Flutter的移动电商项目
 
-## Getting Started
+## 用到的组件
 
-This project is a starting point for a Flutter application.
+- dio:用于向后端接口作HTTP请求数据
+- flutter_swiper: 轮播插件，制作了商城首页的轮播效果
+- flutter_screenutil:用于不同屏幕的适配
+- url_launcher:用于打开网页和实现原生电话的拨打
+- flutter_easyrefresh：下拉刷新或者上拉加载插件。
+- provide：谷歌最新推出的Flutter状态管理插件。
+- fluttertoast：Toast轻提示插件。
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
+## 图片展示
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+![商城图片](https://github.com/wozhizhizhi/FlutterShop/blob/master/imgs/1557046806969.jpg)
